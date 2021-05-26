@@ -161,6 +161,7 @@ header ul a{
     padding: 0rem 1rem 0rem 1rem;
 }
 
+
 /* FOOTER */
 
 footer{
@@ -175,4 +176,16 @@ footer img{
 }
 footer p{
     font-family: "proxima_novathin";
+}
+/* Erreur */
+.erreur{
+    color: white;
+    border: 1px solid white;
+    padding: 1rem;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 1rem auto;
+}
+.erreur h3{
+    font-size: 2rem;
 }
